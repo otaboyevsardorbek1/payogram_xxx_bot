@@ -1,0 +1,17 @@
+{
+  "name": "Payogram XXX Bot",
+  "description": "Telegram bot deployed via Heroku",
+  "repository": "https://github.com/otaboyevsardorbek1/payogram_xxx_bot",
+  "keywords": ["telegram", "bot", "python"],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Telegram Bot Token",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
