@@ -7,7 +7,12 @@ warning !, this is a telegram bot that contains adult content, access restrictio
 Simply way to deploy this bot, go deploy on heroku.
 
 <b>
-<a href="https://heroku.com/deploy?template=[https://github.com/aryazakaria01/PornHub](https://github.com/otaboyevsardorbek1/xxxdwonloadbot)"><img src="https://img.shields.io/badge/DEPLOY ON HEROKU-Canary?style=badge&logo=heroku"width="310" height="50"/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/otaboyevsardorbek1/payogram_xxx_bot">
+  <img src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-Canary?style=for-the-badge&logo=heroku"
+       width="310"
+       height="50"/>
+</a>
+
 </b>
 
 ### FIND US ON TELEGRAM !!
